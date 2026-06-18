@@ -1,0 +1,8 @@
+PROJECT_NAME = "Currency Calculator"
+PROJECT_BRIEF = "Конвертер валют с реальными курсами"
+INPUT = src/
+OUTPUT_DIRECTORY = docs
+GENERATE_HTML = YES
+GENERATE_LATEX = NO
+EXTRACT_ALL = YES
+OPTIMIZE_OUTPUT_FOR_C = NO
